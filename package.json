@@ -1,0 +1,23 @@
+{
+  "name": "elebook",
+  "version": "1.0.0",
+  "description": "这是一个 GitBook 自动化构建的 Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangyingyingwyy/elebook.git"
+  },
+  "keywords": [],
+  "author": "wangyingyingwyy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wangyingyingwyy/elebook/issues"
+  },
+  "homepage": "https://github.com/wangyingyingwyy/elebook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
